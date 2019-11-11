@@ -1,0 +1,14 @@
+{
+  "name": "diffjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diffJson.js",
+  "scripts": {
+    "start": "node diffJson.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
